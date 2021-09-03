@@ -1,3 +1,5 @@
+<div style="text-align: center;">
+
 ### Jose Ramon Aleman (JRAleman) 🐢
 
 ***Full-Stack Software Engineer***
@@ -13,8 +15,12 @@
 - 💬 Ask me about first generation pokemon glitches :)
 - 📫 How to reach me: discord (jraleman#6427)
 - 😄 Pronouns: Dude/man
-- ⚡ Fun fact: I used `react-native` first than `react`
+- ⚡ Fun fact: I started using `react-native` before using `react`
 
 ---
 
-![trophies](https://github-profile-trophy.vercel.app/?username=jraleman)
+#### Achievements
+
+![trophies](https://github-profile-trophy.vercel.app/?username=jraleman&no-bg=true&no-frame=true&row=1&column=)
+
+</span>
