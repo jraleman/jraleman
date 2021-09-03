@@ -1,16 +1,13 @@
-### Hi there 👋
+### Jose Ramon Aleman (JRAleman) 🐢
 
-<!--
-**jraleman/jraleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***Full-Stack Software Engineer.***
 
-Here are some ideas to get you started:
+> I'm Jose Ramon, an engineer originated from Panama, and currently living in the United States.
+> Thinking in a logical and clear way has helped me during my academic and professional career, by being a problem-solver and someone who can be relied on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on some TypeScript projects
+- 🌱 I’m currently learning Brawlhalla
+- 💬 Ask me about first generation pokemon glitches :)
+- 📫 How to reach me: discord (jraleman#6427)
+- 😄 Pronouns: Dude/man
+- ⚡ Fun fact: I learned `react-native`, before learning `react`
