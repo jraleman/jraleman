@@ -11,3 +11,7 @@
 - 📫 How to reach me: discord (jraleman#6427)
 - 😄 Pronouns: Dude/man
 - ⚡ Fun fact: I learned `react-native`, before learning `react`
+
+---
+
+![trophies](https://github-profile-trophy.vercel.app/?username=jraleman)
