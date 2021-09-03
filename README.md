@@ -23,4 +23,4 @@
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=jraleman&no-bg=true&no-frame=true&row=1&column=)
 
-</span>
+</div>
