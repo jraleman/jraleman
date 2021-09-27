@@ -9,7 +9,7 @@
 > I'm Jose Ramon, a 🇵🇦 canalero / 🇺🇸 gringo fullstack (front-end oriented) software engineer.\
 > Thinking in a logical and clear way has helped me during my academic and professional career.\
 > Being a problem-solver and someone who can be relied on is what I try to do my best.\
-> I'm also into UI/UX, design, entrepreneurship, music, mechatronics, and all the good stuff.
+> I'm also into UI/UX, design, entrepreneurship, music, mechatronics, quantum computing, and all the good stuff.
 
 <details>
 <summary>Click here to know more about me :)</summary>
