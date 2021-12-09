@@ -17,10 +17,10 @@
 <div align="left">
   
 - 🔭 I’m currently working on some TypeScript projects
-- 🌱 I’m currently learning Brawlhalla
-- 💬 Ask me about first generation pokemon glitches :)
+- 🌱 I’m currently learning Quantum Engineering
+- 💬 Ask me about first generation pokemon glitches
 - 📫 How to reach me: discord (jraleman#6427)
-- 😄 Pronouns: Dude/man
+- 😄 Pronouns: Lord/Poke/God
 - ⚡ Fun fact: I started using `react-native` before using `react`
 
 </div>
