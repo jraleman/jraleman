@@ -18,23 +18,20 @@
   
 - 🔭 I’m currently working on some TypeScript projects
 - 🌱 I’m currently learning Quantum Engineering
-- 💬 Ask me about first generation pokemon glitches
-- 📫 How to reach me: discord (jraleman#6427)
-- 😄 Pronouns: He/Him/Lord/King
-- ⚡ Fun fact: I started using `react-native` before using `react`
+- 💬 Ask me about first generation pokemon glitches ;)
 
 </div>
   
 </details>
 
 ---
-  
+
+#### Daily Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jraleman&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 #### Achievements
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=jraleman&no-bg=true&no-frame=true&row=1&column=7)
-
-#### Daily Streak
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jraleman&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 </div>
