@@ -17,7 +17,7 @@
 <div align="left">
   
 - 🔭 I’m currently working on some TypeScript projects
-- 🌱 I’m currently learning Quantum Engineering
+- 🌱 I’m currently learning AI and Machine Learning
 - 💬 Ask me about first generation pokemon glitches ;)
 
 </div>
