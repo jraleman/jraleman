@@ -1,15 +1,15 @@
 <div align="center">
 
-### Jose Ramon Aleman (JRAleman) 🐢
+### JRAleman - (J)ose (R)amon (Aleman) Bendiburg 🐢
 
-***Sr. Software Engineer*** 🥞 💻 🧠
+***Software | AI | Mechatronics***
 
 ![pokesquad](https://user-images.githubusercontent.com/11222980/131948254-b1b2383f-8ca6-4c0a-9ceb-a18fbcc56011.gif)
 
-> I'm Jose Ramon, a 🇵🇦 canalero / 🇺🇸 gringo fullstack (front-end oriented) and A.I. software engineer.\
+> I'm Jose Ramon, a 🇺🇸 🇵🇦 (gringo-canalero) software engineer.\
 > Thinking in a logical and clear way has helped me during my academic and professional career.\
 > Being a problem-solver and someone who can be relied on is what I try to do my best.\
-> I'm also into UI/UX design, entrepreneurship, music, mechatronics, quantum computing, and all the good stuff :)
+> I'm also into gaming, music, quantum computing, and all the good stuff :)
 
 <details>
 <summary>Click here to know more about me!</summary>
